@@ -1,0 +1,11 @@
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb

@@ -1,0 +1,11 @@
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\webmvc.deps.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\webmvc.runtimeconfig.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\webmvc.runtimeconfig.dev.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\webmvc.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\webmvc.pdb
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.csprojAssemblyReference.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.csproj.CoreCompileInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.AssemblyInfoInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.AssemblyInfo.cs
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\webmvc.pdb
