@@ -9,3 +9,21 @@ E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\Cas
 E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
 E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
 E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\global.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache

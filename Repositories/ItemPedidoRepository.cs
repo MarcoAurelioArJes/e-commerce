@@ -1,4 +1,5 @@
 ﻿using CasaDoCodigo.Models;
+using System;
 using System.Linq;
 
 namespace CasaDoCodigo.Repositories
@@ -9,18 +10,9 @@ namespace CasaDoCodigo.Repositories
         {
         }
 
-        public void AtualizarQuantidade(ItemPedido itemPedido)
+        public ItemPedido ObterItemPedido(int id)
         {
-            var itemPedidoDB = _dbSet
-                .Where(ip => ip.Id == itemPedido.Id)
-                .SingleOrDefault();
-
-            if (itemPedidoDB != null)
-            {
-                itemPedidoDB.AtualizaQuantidade(itemPedido.Quantidade);
-
-                _contexto.SaveChanges();
-            }
+            return _dbSet.Where(i => i.Id == id).SingleOrDefault() ?? throw new Exception($"Não existe Item de Pedido com o ID {id}");
         }
     }
 }
