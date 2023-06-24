@@ -40,15 +40,26 @@ namespace CasaDoCodigo.Controllers
 
         public IActionResult Cadastro()
         {
-            return View();
-        }
+            var produto = _pedidoRepository.GetPedido();
 
-        public IActionResult Resumo()
-        {
-            return View(_pedidoRepository.GetPedido());
+            if (produto is null)
+                return RedirectToAction("Carrossel");
+
+            return View(produto.Cadastro);
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Resumo(Cadastro cadastro)
+        {
+            if (ModelState.IsValid)
+                return View(_pedidoRepository.AtualizaCadastro(cadastro));
+
+            return RedirectToAction("Cadastro");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public RespostaQuantidadeAtualizada AtualizaQuantidade([FromBody]ItemPedido itemPedido)
         {
             return _pedidoRepository.AtualizarQuantidade(itemPedido);

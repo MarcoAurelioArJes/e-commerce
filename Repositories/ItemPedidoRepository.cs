@@ -14,5 +14,10 @@ namespace CasaDoCodigo.Repositories
         {
             return _dbSet.Where(i => i.Id == id).SingleOrDefault() ?? throw new Exception($"Não existe Item de Pedido com o ID {id}");
         }
+
+        public void RemoverItemPedido(int id)
+        {
+            _dbSet.Remove(ObterItemPedido(id));
+        }
     }
 }

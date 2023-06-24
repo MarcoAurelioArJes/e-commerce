@@ -1,14 +1,3 @@
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
-E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
 C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\appsettings.Development.json
 C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\appsettings.json
 C:\Users\Usuario\Videos\e-commerce\bin\Debug\netcoreapp2.0\bundleconfig.json
@@ -27,3 +16,14 @@ C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.C
 C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
 C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
 C:\Users\Usuario\Videos\e-commerce\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+E:\SALVAR\Curso C#\Curso Alura\CursoMVCAspNet\webmvc\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
